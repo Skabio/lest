@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\.1\u0423\u0447\u0435\u0431\u0430\\lesta\\lesta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E830FF3-33B7-46A5-B76B-37A830DD4551}|lesta\\lesta.vcxproj|R:\\.1\u0423\u0447\u0435\u0431\u0430\\lesta\\lesta\\lesta\\lesta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E830FF3-33B7-46A5-B76B-37A830DD4551}|lesta\\lesta.vcxproj|solutionrelative:lesta\\lesta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesta.cpp",
+              "DocumentMoniker": "R:\\.1\u0423\u0447\u0435\u0431\u0430\\lesta\\lesta\\lesta\\lesta.cpp",
+              "RelativeDocumentMoniker": "lesta\\lesta.cpp",
+              "ToolTip": "R:\\.1\u0423\u0447\u0435\u0431\u0430\\lesta\\lesta\\lesta\\lesta.cpp",
+              "RelativeToolTip": "lesta\\lesta.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T11:15:03.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
